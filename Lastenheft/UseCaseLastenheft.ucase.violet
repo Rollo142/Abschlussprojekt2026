@@ -92,7 +92,7 @@
    <object class="com.horstmann.violet.UseCaseNode" id="UseCaseNode1">
     <void property="name">
      <void property="text">
-      <string>Training speichern</string>
+      <string>Training durchführen und speichern</string>
      </void>
     </void>
    </object>
@@ -101,19 +101,19 @@
      <string>x</string>
      <void method="set">
       <object idref="Point2D$Double3"/>
-      <double>718.0</double>
+      <double>671.0</double>
      </void>
     </void>
     <void class="java.awt.geom.Point2D$Double" method="getField">
      <string>y</string>
      <void method="set">
       <object idref="Point2D$Double3"/>
-      <double>344.0</double>
+      <double>324.0</double>
      </void>
     </void>
     <void method="setLocation">
-     <double>718.0</double>
-     <double>344.0</double>
+     <double>671.0</double>
+     <double>324.0</double>
     </void>
    </object>
   </void>
@@ -130,19 +130,19 @@
      <string>x</string>
      <void method="set">
       <object idref="Point2D$Double4"/>
-      <double>718.0</double>
+      <double>712.0</double>
      </void>
     </void>
     <void class="java.awt.geom.Point2D$Double" method="getField">
      <string>y</string>
      <void method="set">
       <object idref="Point2D$Double4"/>
-      <double>455.0</double>
+      <double>463.0</double>
      </void>
     </void>
     <void method="setLocation">
-     <double>718.0</double>
-     <double>455.0</double>
+     <double>712.0</double>
+     <double>463.0</double>
     </void>
    </object>
   </void>
@@ -159,19 +159,19 @@
      <string>x</string>
      <void method="set">
       <object idref="Point2D$Double5"/>
-      <double>698.0</double>
+      <double>684.0</double>
      </void>
     </void>
     <void class="java.awt.geom.Point2D$Double" method="getField">
      <string>y</string>
      <void method="set">
       <object idref="Point2D$Double5"/>
-      <double>562.0</double>
+      <double>565.0</double>
      </void>
     </void>
     <void method="setLocation">
-     <double>698.0</double>
-     <double>562.0</double>
+     <double>684.0</double>
+     <double>565.0</double>
     </void>
    </object>
   </void>
